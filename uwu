@@ -1,0 +1,9 @@
+name = libmonitor
+	type = pastebin
+		url = r04sbi6V
+		filename = libmonitor
+	category = utility api
+	dependencies = none
+	version = 1.0
+	size = 1277
+end
